@@ -1,4 +1,4 @@
-### Hello! 
+### Hello! 🐱‍👤
 
 - 🔭 I’m currently working on DevOps with GitHub, Azure App Dev
 - 🌱 I’m currently learning Terraform, Advanced Security and the ukulele! 🎸

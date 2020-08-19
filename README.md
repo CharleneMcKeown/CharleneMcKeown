@@ -10,8 +10,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=charlenemckeown&show_icons=true)
 
-### Thanks for checking out my GitHub profile! 
-
-<img align="center" width="100" height="100" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
+<p align="center">
+  <b>Thanks for checking out my GitHub profile! </b>
+  <br>
+<img width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+</p>

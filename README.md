@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=charlenemckeown&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=charlenemckeown&show_icons=true&theme=nightowl)
 
 
 

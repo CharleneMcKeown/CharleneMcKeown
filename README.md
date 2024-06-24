@@ -1,6 +1,6 @@
 ### Hello! 
 
-- 🔭 Currently working on DevOps with GitHub, Azure App Dev
+- 🔭 Currently working with Enterprise customers on adopting GitHub
 - 🌱 Currently focused on learning guitar and Copilot 🎸
 - :black_cat: Pretty barmy about my cats 🐱 🐱
 - 🎲 Hobbies: Board games, video games, cooking, guitar, sci-fi (reading, watching)
